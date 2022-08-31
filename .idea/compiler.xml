@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="android_compose_experiment_home.buildSrc" target="1.8" />
+      <module name="android_compose_experiment_home.buildSrc.main" target="1.8" />
+      <module name="android_compose_experiment_home.buildSrc.test" target="1.8" />
+      <module name="android_compose_feature_auth.buildSrc" target="11" />
+      <module name="android_compose_feature_auth.buildSrc.main" target="11" />
+      <module name="android_compose_feature_auth.buildSrc.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

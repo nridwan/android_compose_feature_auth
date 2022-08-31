@@ -1,0 +1,6 @@
+[submodule "buildSrc"]
+	path = buildSrc
+	url = https://github.com/nridwan/android_compose_buildsrc.git
+[submodule "core"]
+	path = core
+	url = https://github.com/nridwan/android_compose_core.git
